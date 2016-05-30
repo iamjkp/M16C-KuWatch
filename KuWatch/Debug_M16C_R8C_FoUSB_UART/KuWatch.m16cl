@@ -1,0 +1,15 @@
+-L "nc30lib"
+-G
+-MS
+-O "C:\WorkSpace\KuWatch\KuWatch\Debug_M16C_R8C_FoUSB_UART\KuWatch.x30"
+"C:\WorkSpace\KuWatch\KuWatch\Debug_M16C_R8C_FoUSB_UART\ncrt0.r30"
+"C:\WorkSpace\KuWatch\KuWatch\Debug_M16C_R8C_FoUSB_UART\Alarm.r30"
+"C:\WorkSpace\KuWatch\KuWatch\Debug_M16C_R8C_FoUSB_UART\DateTime.r30"
+"C:\WorkSpace\KuWatch\KuWatch\Debug_M16C_R8C_FoUSB_UART\Empty.r30"
+"C:\WorkSpace\KuWatch\KuWatch\Debug_M16C_R8C_FoUSB_UART\KuWatch.r30"
+"C:\WorkSpace\KuWatch\KuWatch\Debug_M16C_R8C_FoUSB_UART\mcu_init.r30"
+"C:\WorkSpace\KuWatch\KuWatch\Debug_M16C_R8C_FoUSB_UART\qsk_lcd.r30"
+"C:\WorkSpace\KuWatch\KuWatch\Debug_M16C_R8C_FoUSB_UART\StopWatch.r30"
+"C:\WorkSpace\KuWatch\KuWatch\Debug_M16C_R8C_FoUSB_UART\Switch.r30"
+"C:\WorkSpace\KuWatch\KuWatch\Debug_M16C_R8C_FoUSB_UART\Timer.r30"
+"C:\WorkSpace\KuWatch\KuWatch\Debug_M16C_R8C_FoUSB_UART\WatchTimer.r30"

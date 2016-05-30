@@ -1,0 +1,16 @@
+-L "nc30lib"
+-G
+-MS
+-O "C:\WorkSpace\KuWatch\KuWatch\Debug\KuWatch.x30"
+"C:\WorkSpace\KuWatch\KuWatch\Debug\ncrt0.r30"
+"C:\WorkSpace\KuWatch\KuWatch\Debug\Alarm.r30"
+"C:\WorkSpace\KuWatch\KuWatch\Debug\DateTime.r30"
+"C:\WorkSpace\KuWatch\KuWatch\Debug\Empty.r30"
+"C:\WorkSpace\KuWatch\KuWatch\Debug\KuWatch.r30"
+"C:\WorkSpace\KuWatch\KuWatch\Debug\LED.r30"
+"C:\WorkSpace\KuWatch\KuWatch\Debug\mcu_init.r30"
+"C:\WorkSpace\KuWatch\KuWatch\Debug\qsk_lcd.r30"
+"C:\WorkSpace\KuWatch\KuWatch\Debug\StopWatch.r30"
+"C:\WorkSpace\KuWatch\KuWatch\Debug\Switch.r30"
+"C:\WorkSpace\KuWatch\KuWatch\Debug\Timer.r30"
+"C:\WorkSpace\KuWatch\KuWatch\Debug\WatchTimer.r30"

@@ -1,0 +1,27 @@
+[HIMDBVersion]
+2.0
+[DATABASE_VERSION]
+"1.1" 
+[CURRENT_PROJECT]
+"KuWatch" 
+[GENERAL_DATA]
+[BREAKPOINTS]
+[OPEN_WORKSPACE_FILES]
+"C:\WorkSpace\KuWatch\KuWatch\Drivers\qsk_lcd.c" 
+"C:\WorkSpace\KuWatch\KuWatch\Drivers\Timer.c" 
+"C:\WorkSpace\KuWatch\KuWatch\KuWatch\DateTime.c" 
+"C:\WorkSpace\KuWatch\KuWatch\KuWatch\DateTime.h" 
+"C:\WorkSpace\KuWatch\KuWatch\KuWatch\KuWatch.h" 
+"C:\WorkSpace\KuWatch\KuWatch\KuWatch\StopWatch.c" 
+"C:\WorkSpace\KuWatch\KuWatch\KuWatch\StopWatch.h" 
+"C:\WorkSpace\KuWatch\KuWatch\KuWatch\WatchTimer.c" 
+[WORKSPACE_FILE_STATES]
+"C:\WorkSpace\KuWatch\KuWatch\Drivers\Timer.c" 44 58 1060 367 0 1 
+"C:\WorkSpace\KuWatch\KuWatch\Drivers\qsk_lcd.c" 44 58 1060 367 0 7 
+"C:\WorkSpace\KuWatch\KuWatch\KuWatch\DateTime.c" 66 87 1060 367 0 2 
+"C:\WorkSpace\KuWatch\KuWatch\KuWatch\DateTime.h" 88 116 1060 367 0 3 
+"C:\WorkSpace\KuWatch\KuWatch\KuWatch\KuWatch.h" 22 29 1056 363 0 0 
+"C:\WorkSpace\KuWatch\KuWatch\KuWatch\StopWatch.c" 110 145 1060 367 0 4 
+"C:\WorkSpace\KuWatch\KuWatch\KuWatch\StopWatch.h" 0 0 1060 367 0 5 
+"C:\WorkSpace\KuWatch\KuWatch\KuWatch\WatchTimer.c" 22 29 1060 367 0 6 
+[END]
